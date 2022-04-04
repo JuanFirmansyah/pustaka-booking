@@ -1,3 +1,15 @@
+##################
+WEB PROGRAMMING II
+##################
+Nama : Juan Firmansyah
+Kelas : 17.6A.29
+NIM	: 17191180
+
+✓ Tugas Pertemuan 1 : Mengerjakan contoh 1 , lalu push ke github repo.
+
+
+
+
 ###################
 What is CodeIgniter
 ###################
