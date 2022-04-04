@@ -6,6 +6,8 @@ Kelas : 17.6A.29
 NIM	: 17191180
 
 ✓ Tugas Pertemuan 1 : Mengerjakan contoh 1 , lalu push ke github repo.
+✓ Tugas Pertemuan 2 : Mahasiswa mengerjakan dan mengimplementasikan materi yang ada di pertemuan 3 yaitu
+mengerjakan contoh1,contoh2,contoh3, dan menghilangkan index.php
 
 
 
